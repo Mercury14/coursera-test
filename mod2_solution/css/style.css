@@ -16,7 +16,7 @@ p{
   height: 150px;
   margin-right: auto;
   margin-left: auto;
-  margin-top: 20px;
+  padding-top: 20px;
   color: black;
 }
 span {
